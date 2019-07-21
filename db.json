@@ -1,4 +1,11 @@
 {
- "name":"anirudh",
- "age":24
+  "posts": [
+    {
+      "name": "anirudh",
+      "age": 12
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
